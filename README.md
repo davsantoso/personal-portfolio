@@ -1,9 +1,9 @@
 # personal-portfolio
 ## 🌐 Website Personal Portofolio
-This repository contains my personal **personal portofolio website** built with **HTML, CSS, and JavaScript**.  
+This repository contains my personal **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
 The website is designed to showcase my **profile, about, experiences, skills, projects, testimonial, and contact** in a clean and responsive layout.  
 
-🌍 **Live Demo** → [https://davsantoso.github.io/personal-portofolio](https://davsantoso.github.io/personal-portfolio)  
+🌍 **Live Demo** → [https://davsantoso.github.io/personal-portfolio](https://davsantoso.github.io/personal-portfolio)  
 
 ## ✨ Features
 - Web only.
@@ -15,12 +15,12 @@ The website is designed to showcase my **profile, about, experiences, skills, pr
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3**  
-- **JavaScript**
+- **JavaScript (ES6)**
 
 ## 🚀 How to Run Locally
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/username/personal-portofolio.git
+   git clone https://github.com/username/personal-portfolio.git
 2. Open the project folder.
 3. Run index.html in your browser.
 
