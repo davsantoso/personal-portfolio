@@ -1,5 +1,5 @@
 # personal-portfolio
-## 🌐 Website Personal Portofolio
+## 🌐 Website Personal Portfolio
 This repository contains my personal **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
 The website is designed to showcase my **profile, about, experiences, skills, projects, testimonial, and contact** in a clean and responsive layout.  
 
