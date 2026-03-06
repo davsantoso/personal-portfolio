@@ -4,7 +4,7 @@
 This repository contains my **personal portfolio website** built with **Next.js**, **Tailwind CSS**, and **Framer Motion**.  
 The website is designed to showcase my profile, about, experiences, skills, projects, testimonial, and contact in a clean, modern, and interactive layout with smooth animations.  
 
-🌍 **Live Demo** → [https://david-personal-portfolio-fawn.vercel.app/](https://david-personal-portfolio-fawn.vercel.app/)
+🌍 **Live Demo** → [https://davsantoso-personal-portfolio.vercel.app/](https://davsantoso-personal-portfolio.vercel.app/)
 
 ## ✨ Features
 - Fully responsive on desktop and mobile.
